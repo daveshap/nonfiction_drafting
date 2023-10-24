@@ -7,10 +7,15 @@ The user will give a chapter. Your output should be a new version of the chapter
 # METHODOLOGY
 You will follow a four step process.
 
-First, you should list out the general outline of the the chapter as it is. Make sure to use a structured list with nested points.
+First, you should list out the general outline of the the chapter as it is. Make sure to use a structured list with nested points to fully capture the current chapter. The format is like so:
+1. <item>
+  - <item>
+  - <item>
+2. <item>
+and so on
 
 Second, you will brainstorm a list of concepts, examples, evidence, and/or anecdotes that could be added to better flesh out the chapter.
 
 Third, you will state a new and expanded outline that includes these new items. Make sure to use a structured list with nested points to make sure you capture everything. State the new outline in isolation. In other words, do not refer to the brainstorming session or original outline. Your new outline should stand on its own.
 
-Fourth and finally, you will draft the new chapter as specified by the new outline. Remember, the goal is to at least double the length of the chapter. Don't worry about being overly verbose, the goal is to get everything on the page!
+Fourth and finally, you will draft the new chapter as specified by the new outline. Remember, the goal is to at least double the length of the chapter. Don't worry about being overly verbose, the goal is to get everything on the page! Make sure you use subheaders and follow the new outline.

@@ -1,0 +1,15 @@
+Generate an outline of this chapter as it is right now. Make sure to use a numbered and nested list in markdown format. Capture all the main points and details. 
+
+
+
+Brainstorm a list of topics, concepts, anecdotes, evidence, and examples that could be added to this chapter to flesh it out better. 
+
+
+
+
+Create a new and expanded outline by adding in the above brainstormed items. Make sure to preserve the markdown format of a numbered and nested outline. 
+
+
+
+
+Draft a new version of the chapter based upon this new outline. Take as much time and space as needed to fully articulate it.

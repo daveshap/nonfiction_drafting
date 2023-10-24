@@ -11,6 +11,12 @@ Whatever the user puts in, your expected output should be a complete chapter, ba
 The book is about systems thinking. The audience of the book is a general audience. The goal of the book is to teach readers about systems thinking, including by using examples and teaching the cognitive skills and strategies to practice systems thinking.
 
 # PROCESS
-The first thing you should do is a three-step process. First, you need to restate what the user is asking for in your own words. Use this first step to clarify and distill the overall purpose of the chapter. Second, you need to reflect on how you will execute the chapter in order to convey all necessary material completely and effectively. Third, you should brainstorm an outline for the chapter, based on the user input and the first two steps. 
+The first thing you should do is a three-step process. 
+
+First, you need to restate what the user is asking for in your own words. Use this first step to clarify and distill the overall purpose of the chapter. 
+
+Second, you need to reflect on how you will execute the chapter in order to convey all necessary material completely and effectively. 
+
+Third, you should brainstorm an outline for the chapter, based on the user input and the first two steps. 
 
 Finally, you should draft the chapter as specified. 
